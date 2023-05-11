@@ -1,4 +1,8 @@
 Mi nombre es enoch tengo 13 años y naci el 2009
 me gusta leer
+<<<<<<< HEAD
 Mañana nos enfocaremos en su vida laboral
 hola con todos ¿como estan?
+=======
+Mañana nos enfocaremos en su vida laboral
+>>>>>>> 39d70ab (Agrege los archivos)
