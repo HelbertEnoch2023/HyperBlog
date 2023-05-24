@@ -11,5 +11,6 @@ EN ESTE CURSO VEREMOS DE TODO:
 - Trucos muy locos del profesor
 - Las personalñidades multiples de Freddy
 - Creado por el increible Paltzi Team
+- Incluye ejemplos en Windows, Linux y Mac
 
 Y como un amable recordatorio: "Este readme.md es un chiste".
