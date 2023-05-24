@@ -10,5 +10,6 @@ EN ESTE CURSO VEREMOS DE TODO:
 - El verdadero amorpor las buenas practicas
 - Trucos muy locos del profesor
 - Las personalñidades multiples de Freddy
+- Creado por el increible Paltzi Team
 
 Y como un amable recordatorio: "Este readme.md es un chiste".
